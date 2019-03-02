@@ -11,7 +11,7 @@ B) Git BASH from the local folder
 
 C) Run the script:
    
-   Command: Python run.py housing.data.txt
+   - Command: Python run.py housing.data.txt
 
 D) Output in the screen and folder:
    
